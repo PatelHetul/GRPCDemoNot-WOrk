@@ -1,0 +1,11 @@
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GRPCDemoApplication\bin\Debug\netcoreapp2.1\GRPCDemoApplication.deps.json
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GRPCDemoApplication\bin\Debug\netcoreapp2.1\GRPCDemoApplication.runtimeconfig.json
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GRPCDemoApplication\bin\Debug\netcoreapp2.1\GRPCDemoApplication.runtimeconfig.dev.json
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GRPCDemoApplication\bin\Debug\netcoreapp2.1\GRPCDemoApplication.dll
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GRPCDemoApplication\obj\Debug\netcoreapp2.1\GRPCDemoApplication.csprojAssemblyReference.cache
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GRPCDemoApplication\obj\Debug\netcoreapp2.1\GRPCDemoApplication.csproj.CoreCompileInputs.cache
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GRPCDemoApplication\obj\Debug\netcoreapp2.1\GRPCDemoApplication.RazorAssemblyInfo.cache
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GRPCDemoApplication\obj\Debug\netcoreapp2.1\GRPCDemoApplication.RazorAssemblyInfo.cs
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GRPCDemoApplication\obj\Debug\netcoreapp2.1\GRPCDemoApplication.AssemblyInfoInputs.cache
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GRPCDemoApplication\obj\Debug\netcoreapp2.1\GRPCDemoApplication.AssemblyInfo.cs
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GRPCDemoApplication\obj\Debug\netcoreapp2.1\GRPCDemoApplication.RazorTargetAssemblyInfo.cache

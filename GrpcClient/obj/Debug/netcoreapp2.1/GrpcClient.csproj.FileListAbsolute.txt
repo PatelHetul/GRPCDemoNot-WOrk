@@ -1,0 +1,8 @@
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GrpcClient\bin\Debug\netcoreapp2.1\GrpcClient.deps.json
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GrpcClient\bin\Debug\netcoreapp2.1\GrpcClient.runtimeconfig.json
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GrpcClient\bin\Debug\netcoreapp2.1\GrpcClient.runtimeconfig.dev.json
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GrpcClient\bin\Debug\netcoreapp2.1\GrpcClient.dll
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GrpcClient\obj\Debug\netcoreapp2.1\GrpcClient.csproj.CoreCompileInputs.cache
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GrpcClient\obj\Debug\netcoreapp2.1\GrpcClient.AssemblyInfoInputs.cache
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GrpcClient\obj\Debug\netcoreapp2.1\GrpcClient.AssemblyInfo.cs
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoApplication\GrpcClient\obj\Debug\netcoreapp2.1\GrpcClient.csprojAssemblyReference.cache
